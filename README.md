@@ -1,11 +1,14 @@
 Instagram Automation Bot (Python)
+------------------------------------
 
 A simple Instagram automation bot built with Python using the instabot library.
 This bot can perform basic Instagram actions such as logging in, following users, liking posts, commenting, sending messages, and managing followers automatically.
 
 This project is mainly for learning automation and Python scripting.
 
-Features
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Features**
 
 The bot can automatically:
 
@@ -41,9 +44,10 @@ instabot library
 
 time module
 
-Future Improvements
+-------------------------------------------------
 
-**Possible improvements:**
+**POSSIBLE IMPROVEMENTS IN FUTURE:**
+-------------------------------------------------
 
 Add scheduling
 
