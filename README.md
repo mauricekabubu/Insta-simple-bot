@@ -43,7 +43,7 @@ time module
 
 Future Improvements
 
-Possible improvements:
+**Possible improvements:**
 
 Add scheduling
 
