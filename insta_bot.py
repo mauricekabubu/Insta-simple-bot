@@ -4,7 +4,7 @@ from instabot import Bot
 
 my_bot = Bot()
 # login into my user account
-my_bot.login(username='Mauricekabubs',email='mauricekabubu2006@gmail.com')
+my_bot.login(username='Mauricekabubs',email='mauricekabubs@gmail.com')
 # follow others using automation bot
 my_bot.follow('pythondevs')
 # approve pending follow requests using bot
